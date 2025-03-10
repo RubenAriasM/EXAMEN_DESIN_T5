@@ -20,7 +20,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>interfaz.InterfazJenkins</mainClass>
+                            <mainClass>main.MiInterfaz</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
